@@ -1,0 +1,28 @@
+{
+  "publication": {
+    "title": "A Theoretical and Methodological Framework for LLM-First Website Architecture",
+    "subtitle": "Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search",
+    "title_hu": "Az LLM-first weboldal-architektúra elméleti és módszertani keretrendszere",
+    "subtitle_hu": "Fogalmi tisztázás, iparági pozicionálás és gyakorlati alkalmazási irányok a generatív keresési korszakban",
+    "doi": "10.5281/zenodo.20069426",
+    "doi_url": "https://doi.org/10.5281/zenodo.20069426",
+    "zenodo_record": "https://zenodo.org/records/20069426",
+    "canonical_publication_page": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html",
+    "english_pdf": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-csanad-varhelyi-2026-en.pdf",
+    "hungarian_pdf": "https://www.varhelyicsanad.hu/publikaciok/llm-first-weboldal-architektura-varhelyi-csanad-2026-hu.pdf",
+    "date_published": "2026-05-07",
+    "status": "active, maintained",
+    "verified": "2026 Q2"
+  },
+  "medium_article": {
+    "title": "Mi az LLM-first weboldal-architektúra, és miért számít az AI-korszakban?",
+    "url": "https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e",
+    "language": "hu-HU",
+    "role": "Hungarian explanatory authority layer"
+  },
+  "repository": {
+    "name": "llm-first-website-architecture",
+    "url": "https://github.com/varhelyicsanad/llm-first-website-architecture",
+    "role": "English public repository for metadata, citation, entity-network and conceptual documentation"
+  }
+}

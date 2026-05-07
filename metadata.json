@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://github.com/varhelyicsanad/llm-first-website-architecture#repository",
+  "name": "LLM-First Website Architecture",
+  "alternateName": "GitHub reference repository for LLM-first website architecture",
+  "description": "Public English metadata and documentation layer for Csanád Várhelyi's DOI-linked publication on LLM-first website architecture, AI-readable websites, AEO, GEO, LLMO, Entity Engineering and Knowledge Graph integration.",
+  "url": "https://github.com/varhelyicsanad/llm-first-website-architecture",
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Person",
+    "@id": "https://www.varhelyicsanad.hu/#person",
+    "name": "Várhelyi Csanád",
+    "alternateName": "Csanád Várhelyi",
+    "url": "https://www.varhelyicsanad.hu/",
+    "sameAs": [
+      "https://orcid.org/0009-0006-7599-3731",
+      "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+      "https://github.com/varhelyicsanad",
+      "https://medium.com/@varhelyicsanad"
+    ]
+  },
+  "about": [
+    "LLM-first website architecture",
+    "AI-readable websites",
+    "AEO",
+    "GEO",
+    "LLMO",
+    "Entity Engineering",
+    "Knowledge Graph integration",
+    "semantic web",
+    "structured data"
+  ],
+  "citation": "https://doi.org/10.5281/zenodo.20069426",
+  "isBasedOn": {
+    "@type": "ScholarlyArticle",
+    "@id": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html#publication",
+    "name": "A Theoretical and Methodological Framework for LLM-First Website Architecture",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.20069426",
+      "url": "https://doi.org/10.5281/zenodo.20069426"
+    }
+  },
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.20069426",
+    "https://zenodo.org/records/20069426",
+    "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html",
+    "https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e",
+    "https://orcid.org/0009-0006-7599-3731"
+  ],
+  "dateCreated": "2026-05-07",
+  "dateModified": "2026-05-07",
+  "version": "2026.05"
+}

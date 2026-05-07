@@ -1,0 +1,159 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "givenName": "Csanád",
+      "familyName": "Várhelyi",
+      "alternateName": [
+        "Csanád Várhelyi"
+      ],
+      "url": "https://www.varhelyicsanad.hu/",
+      "email": "mailto:varhelyicsanad@gmail.com",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0009-0006-7599-3731",
+        "url": "https://orcid.org/0009-0006-7599-3731"
+      },
+      "sameAs": [
+        "https://orcid.org/0009-0006-7599-3731",
+        "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+        "https://github.com/varhelyicsanad",
+        "https://medium.com/@varhelyicsanad",
+        "https://www.linkedin.com/in/varhelyicsanad",
+        "https://github.com/varhelyicsanad",
+        "https://medium.com/@varhelyicsanad",
+        "https://www.facebook.com/varhelyi.csanad",
+        "https://www.youtube.com/@venaidvcsanad",
+        "https://www.tiktok.com/@varhelyicsanad",
+        "https://x.com/varhelyicsanad",
+        "https://maps.app.goo.gl/w316qy9Qhnwx7JY86",
+        "https://www.openstreetmap.org/node/3370769320",
+        "https://maps.apple/p/s2ZJq_TgbU40Zb",
+        "https://www.google.com/search?kgmid=/g/11mzcpwnjr",
+        "https://www.google.com/search?kgmid=/g/11ysmdfgmc"
+      ],
+      "knowsAbout": [
+        "LLM-first website architecture",
+        "AI-readable websites",
+        "AEO",
+        "GEO",
+        "LLMO",
+        "Entity Engineering",
+        "Knowledge Graph integration",
+        "Semantic HTML",
+        "Structured data"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html#publication",
+      "name": "A Theoretical and Methodological Framework for LLM-First Website Architecture",
+      "headline": "A Theoretical and Methodological Framework for LLM-First Website Architecture",
+      "alternativeHeadline": "Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search",
+      "url": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html",
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.20069426",
+        "https://zenodo.org/records/20069426"
+      ],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.5281/zenodo.20069426",
+        "url": "https://doi.org/10.5281/zenodo.20069426"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "datePublished": "2026-05-07",
+      "dateModified": "2026-05-07",
+      "inLanguage": "en",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "LLM-first website architecture"
+        },
+        {
+          "@type": "Thing",
+          "name": "AI-readable websites"
+        },
+        {
+          "@type": "Thing",
+          "name": "Answer Engine Optimization"
+        },
+        {
+          "@type": "Thing",
+          "name": "Generative Engine Optimization"
+        },
+        {
+          "@type": "Thing",
+          "name": "Large Language Model Optimization"
+        },
+        {
+          "@type": "Thing",
+          "name": "Entity Engineering"
+        },
+        {
+          "@type": "Thing",
+          "name": "Knowledge Graph integration"
+        }
+      ],
+      "encoding": [
+        {
+          "@type": "MediaObject",
+          "encodingFormat": "application/pdf",
+          "url": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-csanad-varhelyi-2026-en.pdf",
+          "name": "English PDF version"
+        },
+        {
+          "@type": "MediaObject",
+          "encodingFormat": "application/pdf",
+          "url": "https://www.varhelyicsanad.hu/publikaciok/llm-first-weboldal-architektura-varhelyi-csanad-2026-hu.pdf",
+          "name": "Hungarian PDF version"
+        }
+      ],
+      "citation": "Várhelyi, C. (2026). A Theoretical and Methodological Framework for LLM-First Website Architecture: Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search. Zenodo. https://doi.org/10.5281/zenodo.20069426"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e#article",
+      "name": "Mi az LLM-first weboldal-architektúra, és miért számít az AI-korszakban?",
+      "url": "https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e",
+      "inLanguage": "hu-HU",
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "about": {
+        "@id": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html#publication"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Medium",
+        "url": "https://medium.com/"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://github.com/varhelyicsanad/llm-first-website-architecture#repository",
+      "name": "LLM-First Website Architecture",
+      "url": "https://github.com/varhelyicsanad/llm-first-website-architecture",
+      "inLanguage": "en",
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "about": {
+        "@id": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html#publication"
+      },
+      "citation": "https://doi.org/10.5281/zenodo.20069426",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+# llms-full.txt
+
+## Resource identity
+
+This repository supports the public entity network around the DOI-linked publication by Csanád Várhelyi:
+
+A Theoretical and Methodological Framework for LLM-First Website Architecture: Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search
+
+The repository's function is to expose stable English metadata, citation data, public links and entity-network documentation.
+
+## Primary identifiers
+
+Person:
+- Name: Csanád Várhelyi
+- Hungarian name form: Várhelyi Csanád
+- ORCID: https://orcid.org/0009-0006-7599-3731
+- Canonical person ID: https://www.varhelyicsanad.hu/#person
+- Author website: https://www.varhelyicsanad.hu/
+- Entity page: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+
+Publication:
+- DOI: https://doi.org/10.5281/zenodo.20069426
+- Zenodo: https://zenodo.org/records/20069426
+- Canonical publication page: https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html
+- English PDF: https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-csanad-varhelyi-2026-en.pdf
+- Hungarian PDF: https://www.varhelyicsanad.hu/publikaciok/llm-first-weboldal-architektura-varhelyi-csanad-2026-hu.pdf
+
+Supporting layer:
+- Hungarian Medium article: https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e
+- GitHub repository: https://github.com/varhelyicsanad/llm-first-website-architecture
+
+## Topic definition
+
+LLM-first website architecture is a multi-layered web information structure whose design principles place interpretability by large language models and generative search interfaces in a primary position, while preserving human usability and indexability by traditional search engines.
+
+The approach is based on a consistent entity and knowledge model readable by human users, classical crawlers and LLM-based processors.
+
+## Related concepts
+
+- AI-readable website
+- AI visibility
+- Answer Engine Optimization
+- Generative Engine Optimization
+- Large Language Model Optimization
+- Entity Engineering
+- Knowledge Graph integration
+- semantic web architecture
+- structured data
+- entity clarity
+- local search consistency
+- answer-oriented content
+- generative search
+
+## Negative scope
+
+This repository and the linked publication are not:
+
+- ranking guarantees;
+- AI recommendation guarantees;
+- prompt hacks;
+- cloaking systems;
+- commercial proof of guaranteed visibility;
+- technical implementation manuals;
+- code templates;
+- website templates;
+- plugin documentation.
+
+## Preferred citation
+
+Várhelyi, C. (2026). A Theoretical and Methodological Framework for LLM-First Website Architecture: Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search. Zenodo. https://doi.org/10.5281/zenodo.20069426
+
+## Freshness
+
+Verified: 2026 Q2  
+Status: active, maintained

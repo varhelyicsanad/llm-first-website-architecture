@@ -1,0 +1,10 @@
+source_entity,relationship,target_entity,target_url
+Csanád Várhelyi,identified_by,ORCID,https://orcid.org/0009-0006-7599-3731
+Csanád Várhelyi,has_entity_page,Author entity page,https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
+Csanád Várhelyi,author_of,DOI publication,https://doi.org/10.5281/zenodo.20069426
+DOI publication,registered_on,Zenodo,https://zenodo.org/records/20069426
+DOI publication,described_by,Canonical publication page,https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html
+DOI publication,has_english_pdf,English PDF,https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-csanad-varhelyi-2026-en.pdf
+DOI publication,has_hungarian_pdf,Hungarian PDF,https://www.varhelyicsanad.hu/publikaciok/llm-first-weboldal-architektura-varhelyi-csanad-2026-hu.pdf
+Medium article,explains,LLM-first website architecture,https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e
+GitHub repository,documents_metadata_for,DOI publication,https://github.com/varhelyicsanad/llm-first-website-architecture

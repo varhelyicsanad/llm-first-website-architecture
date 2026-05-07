@@ -1,0 +1,26 @@
+{
+  "person": {
+    "name_hu": "Várhelyi Csanád",
+    "name_en": "Csanád Várhelyi",
+    "canonical_id": "https://www.varhelyicsanad.hu/#person",
+    "website": "https://www.varhelyicsanad.hu/",
+    "entity_page": "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+    "orcid": "https://orcid.org/0009-0006-7599-3731",
+    "email": "varhelyicsanad@gmail.com"
+  },
+  "public_profiles": [
+    "https://www.linkedin.com/in/varhelyicsanad",
+    "https://github.com/varhelyicsanad",
+    "https://medium.com/@varhelyicsanad",
+    "https://www.facebook.com/varhelyi.csanad",
+    "https://www.youtube.com/@venaidvcsanad",
+    "https://www.tiktok.com/@varhelyicsanad",
+    "https://x.com/varhelyicsanad",
+    "https://maps.app.goo.gl/w316qy9Qhnwx7JY86",
+    "https://www.openstreetmap.org/node/3370769320",
+    "https://maps.apple/p/s2ZJq_TgbU40Zb",
+    "https://www.google.com/search?kgmid=/g/11mzcpwnjr",
+    "https://www.google.com/search?kgmid=/g/11ysmdfgmc"
+  ],
+  "canonical_person_id": "https://www.varhelyicsanad.hu/#person"
+}

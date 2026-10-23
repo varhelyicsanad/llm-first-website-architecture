@@ -8,11 +8,10 @@
     "doi_url": "https://doi.org/10.5281/zenodo.20069426",
     "zenodo_record": "https://zenodo.org/records/20069426",
     "canonical_publication_page": "https://doi.org/10.5281/zenodo.20069426",
-    "english_pdf": "https://doi.org/10.5281/zenodo.20069426",
-    "hungarian_pdf": "https://doi.org/10.5281/zenodo.20069426",
     "date_published": "2026-05-07",
     "status": "active, maintained",
-    "verified": "2026 Q2"
+    "verified": "2026 Q2",
+    "pdf_access_note": "Access language-specific PDF files from the linked Zenodo record; no unverified direct PDF URL is asserted."
   },
   "medium_article": {
     "title": "Mi az LLM-first weboldal-architektúra, és miért számít az AI-korszakban?",

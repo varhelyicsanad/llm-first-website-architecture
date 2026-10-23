@@ -106,20 +106,6 @@
           "name": "Knowledge Graph integration"
         }
       ],
-      "encoding": [
-        {
-          "@type": "MediaObject",
-          "encodingFormat": "application/pdf",
-          "url": "https://doi.org/10.5281/zenodo.20069426",
-          "name": "English PDF version"
-        },
-        {
-          "@type": "MediaObject",
-          "encodingFormat": "application/pdf",
-          "url": "https://doi.org/10.5281/zenodo.20069426",
-          "name": "Hungarian PDF version"
-        }
-      ],
       "citation": "Várhelyi, C. (2026). A Theoretical and Methodological Framework for LLM-First Website Architecture: Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search. Zenodo. https://doi.org/10.5281/zenodo.20069426"
     },
     {

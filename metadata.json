@@ -11,13 +11,13 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": {
     "@type": "Person",
-    "@id": "https://www.varhelyicsanad.hu/#person",
+    "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person",
     "name": "Várhelyi Csanád",
     "alternateName": "Csanád Várhelyi",
-    "url": "https://www.varhelyicsanad.hu/",
+    "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
     "sameAs": [
       "https://orcid.org/0009-0006-7599-3731",
-      "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+      "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
       "https://github.com/varhelyicsanad",
       "https://medium.com/@varhelyicsanad"
     ]
@@ -36,7 +36,7 @@
   "citation": "https://doi.org/10.5281/zenodo.20069426",
   "isBasedOn": {
     "@type": "ScholarlyArticle",
-    "@id": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html#publication",
+    "@id": "https://doi.org/10.5281/zenodo.20069426",
     "name": "A Theoretical and Methodological Framework for LLM-First Website Architecture",
     "identifier": {
       "@type": "PropertyValue",
@@ -48,7 +48,7 @@
   "sameAs": [
     "https://doi.org/10.5281/zenodo.20069426",
     "https://zenodo.org/records/20069426",
-    "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html",
+    "https://doi.org/10.5281/zenodo.20069426",
     "https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e",
     "https://orcid.org/0009-0006-7599-3731"
   ],

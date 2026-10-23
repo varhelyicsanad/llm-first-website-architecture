@@ -2,9 +2,9 @@
   "person": {
     "name_hu": "Várhelyi Csanád",
     "name_en": "Csanád Várhelyi",
-    "canonical_id": "https://www.varhelyicsanad.hu/#person",
-    "website": "https://www.varhelyicsanad.hu/",
-    "entity_page": "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+    "canonical_id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person",
+    "website": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+    "entity_page": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
     "orcid": "https://orcid.org/0009-0006-7599-3731",
     "email": "varhelyicsanad@gmail.com"
   },
@@ -22,5 +22,5 @@
     "https://www.google.com/search?kgmid=/g/11mzcpwnjr",
     "https://www.google.com/search?kgmid=/g/11ysmdfgmc"
   ],
-  "canonical_person_id": "https://www.varhelyicsanad.hu/#person"
+  "canonical_person_id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
 }

@@ -10,10 +10,10 @@ The purpose is to make the relationship between the author, publication, DOI, OR
 
 **Name:** Csanád Várhelyi  
 **Hungarian name form:** Várhelyi Csanád  
-**Canonical person ID:** <https://www.varhelyicsanad.hu/#person>  
+**Canonical person ID:** <https://www.wikiai.hu/szakertok/varhelyi-csanad/#person>  
 **ORCID:** <https://orcid.org/0009-0006-7599-3731>  
-**Website:** <https://www.varhelyicsanad.hu/>  
-**Entity page:** <https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html>
+**Website:** <https://www.wikiai.hu/szakertok/varhelyi-csanad/>  
+**Entity page:** <https://www.wikiai.hu/szakertok/varhelyi-csanad/>
 
 ---
 
@@ -23,7 +23,7 @@ The purpose is to make the relationship between the author, publication, DOI, OR
 **Subtitle:** Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search  
 **DOI:** <https://doi.org/10.5281/zenodo.20069426>  
 **Zenodo record:** <https://zenodo.org/records/20069426>  
-**Canonical publication page:** <https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html>  
+**Canonical publication page:** <https://doi.org/10.5281/zenodo.20069426>  
 **Date published:** 2026-05-07  
 **Status:** active, maintained  
 **Verified:** 2026 Q2

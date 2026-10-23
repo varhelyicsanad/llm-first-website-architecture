@@ -3,14 +3,14 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://www.varhelyicsanad.hu/#person",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person",
       "name": "Várhelyi Csanád",
       "givenName": "Csanád",
       "familyName": "Várhelyi",
       "alternateName": [
         "Csanád Várhelyi"
       ],
-      "url": "https://www.varhelyicsanad.hu/",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
       "email": "mailto:varhelyicsanad@gmail.com",
       "identifier": {
         "@type": "PropertyValue",
@@ -20,7 +20,7 @@
       },
       "sameAs": [
         "https://orcid.org/0009-0006-7599-3731",
-        "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
         "https://github.com/varhelyicsanad",
         "https://medium.com/@varhelyicsanad",
         "https://www.linkedin.com/in/varhelyicsanad",
@@ -50,11 +50,11 @@
     },
     {
       "@type": "ScholarlyArticle",
-      "@id": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html#publication",
+      "@id": "https://doi.org/10.5281/zenodo.20069426",
       "name": "A Theoretical and Methodological Framework for LLM-First Website Architecture",
       "headline": "A Theoretical and Methodological Framework for LLM-First Website Architecture",
       "alternativeHeadline": "Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search",
-      "url": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html",
+      "url": "https://doi.org/10.5281/zenodo.20069426",
       "sameAs": [
         "https://doi.org/10.5281/zenodo.20069426",
         "https://zenodo.org/records/20069426"
@@ -66,10 +66,10 @@
         "url": "https://doi.org/10.5281/zenodo.20069426"
       },
       "author": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       },
       "creator": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       },
       "datePublished": "2026-05-07",
       "dateModified": "2026-05-07",
@@ -110,13 +110,13 @@
         {
           "@type": "MediaObject",
           "encodingFormat": "application/pdf",
-          "url": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-csanad-varhelyi-2026-en.pdf",
+          "url": "https://doi.org/10.5281/zenodo.20069426",
           "name": "English PDF version"
         },
         {
           "@type": "MediaObject",
           "encodingFormat": "application/pdf",
-          "url": "https://www.varhelyicsanad.hu/publikaciok/llm-first-weboldal-architektura-varhelyi-csanad-2026-hu.pdf",
+          "url": "https://doi.org/10.5281/zenodo.20069426",
           "name": "Hungarian PDF version"
         }
       ],
@@ -129,10 +129,10 @@
       "url": "https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e",
       "inLanguage": "hu-HU",
       "author": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       },
       "about": {
-        "@id": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html#publication"
+        "@id": "https://doi.org/10.5281/zenodo.20069426"
       },
       "isPartOf": {
         "@type": "WebSite",
@@ -147,10 +147,10 @@
       "url": "https://github.com/varhelyicsanad/llm-first-website-architecture",
       "inLanguage": "en",
       "creator": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       },
       "about": {
-        "@id": "https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html#publication"
+        "@id": "https://doi.org/10.5281/zenodo.20069426"
       },
       "citation": "https://doi.org/10.5281/zenodo.20069426",
       "license": "https://creativecommons.org/licenses/by/4.0/"

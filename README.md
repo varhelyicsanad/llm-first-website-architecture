@@ -9,7 +9,7 @@ This repository is the public English GitHub reference layer for the DOI-linked 
 Author: **Csanád Várhelyi**  
 ORCID: <https://orcid.org/0009-0006-7599-3731>  
 DOI: <https://doi.org/10.5281/zenodo.20069426>  
-Canonical publication page: <https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html>  
+Canonical publication page: <https://doi.org/10.5281/zenodo.20069426>  
 Zenodo record: <https://zenodo.org/records/20069426>
 
 ---
@@ -68,12 +68,12 @@ The publication and this repository intentionally stay at the level of conceptua
 | --- | --- |
 | DOI | <https://doi.org/10.5281/zenodo.20069426> |
 | Zenodo record | <https://zenodo.org/records/20069426> |
-| Canonical publication page | <https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html> |
-| English PDF | <https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-csanad-varhelyi-2026-en.pdf> |
-| Hungarian PDF | <https://www.varhelyicsanad.hu/publikaciok/llm-first-weboldal-architektura-varhelyi-csanad-2026-hu.pdf> |
+| Canonical publication page | <https://doi.org/10.5281/zenodo.20069426> |
+| Publication archive (English PDF via Zenodo) | <https://doi.org/10.5281/zenodo.20069426> |
+| Publication archive (Hungarian PDF via Zenodo) | <https://doi.org/10.5281/zenodo.20069426> |
 | ORCID profile | <https://orcid.org/0009-0006-7599-3731> |
-| Author website | <https://www.varhelyicsanad.hu/> |
-| Author entity page | <https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html> |
+| Author website | <https://www.wikiai.hu/szakertok/varhelyi-csanad/> |
+| Author entity page | <https://www.wikiai.hu/szakertok/varhelyi-csanad/> |
 | Hungarian Medium article | <https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e> |
 | GitHub repository | <https://github.com/varhelyicsanad/llm-first-website-architecture> |
 

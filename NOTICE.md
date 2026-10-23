@@ -10,7 +10,7 @@ The official DOI record is maintained on Zenodo:
 
 The canonical publication page is maintained on the author's website:
 
-<https://www.varhelyicsanad.hu/publikaciok/llm-first-website-architecture-2026.html>
+<https://doi.org/10.5281/zenodo.20069426>
 
 The author's ORCID profile is:
 
